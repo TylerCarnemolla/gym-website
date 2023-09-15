@@ -65,6 +65,10 @@
 .card{
     border: 3px solid red
 }
+.nav-to-about{
+    display: flex;
+    justify-content: center;
+}
 
 
 .footer {
